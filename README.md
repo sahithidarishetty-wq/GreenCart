@@ -26,10 +26,15 @@ The project includes product categories, navigation, registration/login pages, a
 GreenCart/
 │
 ├── index.html
+
 ├── login.html
+
 ├── register.html
+
 ├── style.css
+
 ├── script.js
+
 └── images/
 
 🌐 Live Demo
