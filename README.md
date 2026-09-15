@@ -24,6 +24,7 @@ The project includes product categories, navigation, registration/login pages, a
 📂 Project Structure
 
 GreenCart/
+
 │
 ├── index.html
 
